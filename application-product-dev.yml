@@ -2,7 +2,7 @@ server:
   port: 8002
 spring:
   application:
-    name: aigou-product-dev
+    name: aigou-product
 eureka:
   client:
     service-url:
